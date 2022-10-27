@@ -1,0 +1,19 @@
+body {
+    font-family: 'JetBrains Mono', monospace;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+section {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.skills-detail div {
+    display: inline-block;
+    width: 49%;
+}
+
+.skills-detail div h3 {
+    text-align: center;
+}
